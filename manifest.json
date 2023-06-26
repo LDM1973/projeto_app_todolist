@@ -1,7 +1,7 @@
 {
   "name": "ASAP Tasks by Leonardo Munarolo",
   "short_name": "ASAP Tasks",
-  "start_url": "https://ldm1973.github.io/projeto_app_todolist/",
+  "start_url": "https://ldm1973.github.io/projeto_app_todolist/index.html",
   "scope": "./",
   "icons": [
     {
