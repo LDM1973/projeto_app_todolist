@@ -1,7 +1,7 @@
 {
   "name": "ASAP Tasks by Leonardo Munarolo",
   "short_name": "ASAP Tasks",
-  "start_url": "https://ldm1973.github.io/projeto_app_todolist/index.html",
+  "description": "ASAP Tasks is a simple and straight to the point to do list app made to be free of distractions while being in your face with bold colors.",
   "scope": "./",
   "icons": [
     {
@@ -15,6 +15,7 @@
       "type": "image/png"
     }
   ],
+  "start_url": "index.html",
   "theme_color": "#ffc900",
   "background_color": "##ffc900",
   "display": "standalone"
