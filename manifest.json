@@ -4,10 +4,14 @@
     "start_url": "index.html",
     "scope": "./",
     "icons": [
-
       {
         "src": "Icon.png",
-        "sizes": "525x525",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "Icon.png",
+        "sizes": "512x512",
         "type": "image/png"
       }
     ]

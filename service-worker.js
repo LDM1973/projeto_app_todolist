@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["Icon.ico","40eb8aaf6feeedc211d807a2e9c0315c"],["Icon.png","dcaa9450fef6d2cfb308f7d4d6df396e"],["assets/fonts/Sligoil-Micro.otf","32d5739cb704300bfe8a6772cebfd8ae"],["assets/style/style.css","238859e33c887750c8a75abec4195910"],["check.svg","1a26679afadaa5a9510cd8dd7a7c6c25"],["index.html","d6fe7325b2802a493af16e098294b2a0"],["manifest.json","652470c7d8384267c370775abd6e5b05"],["package-lock.json","2286633c85eb75c2b0be31489bdd3f4c"],["package.json","0ca5eef096c2b99cfb3f41820ad05d07"],["script.js","c30af0647b30487f21631d1e70608921"]];
+var precacheConfig = [["Icon.ico","40eb8aaf6feeedc211d807a2e9c0315c"],["Icon.png","dcaa9450fef6d2cfb308f7d4d6df396e"],["assets/fonts/Sligoil-Micro.otf","32d5739cb704300bfe8a6772cebfd8ae"],["assets/style/style.css","238859e33c887750c8a75abec4195910"],["check.svg","1a26679afadaa5a9510cd8dd7a7c6c25"],["index.html","6e1f7b8cf5973e0e0c8e4a1a0cfa70b9"],["manifest.json","28aba59ad799920c426ffa19afbdc8dc"],["package-lock.json","2286633c85eb75c2b0be31489bdd3f4c"],["package.json","0ca5eef096c2b99cfb3f41820ad05d07"],["script.js","c30af0647b30487f21631d1e70608921"]];
 var cacheName = 'sw-precache-v3-sw-precache-' + (self.registration ? self.registration.scope : '');
 
 
