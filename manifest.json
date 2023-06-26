@@ -17,7 +17,7 @@
   ],
   "start_url": "index.html",
   "theme_color": "#ffc900",
-  "background_color": "##ffc900",
+  "background_color": "#ffc900",
   "display": "standalone",
   "prefer_related_applications": false
 }
