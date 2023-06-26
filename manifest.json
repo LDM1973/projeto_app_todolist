@@ -1,21 +1,21 @@
 {
-    "name": "ASAP Tasks by Leonardo Munarolo",
-    "short_name": "ASAP Tasks",
-    "start_url": "index.html",
-    "scope": "./",
-    "icons": [
-      {
-        "src": "Icon.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      },
-      {
-        "src": "Icon.png",
-        "sizes": "512x512",
-        "type": "image/png"
-      }
-    ],
-    "theme_color": "#ffc900",
-    "background_color": "##ffc900",
-    "display": "standalone"
-  }
+  "name": "ASAP Tasks by Leonardo Munarolo",
+  "short_name": "ASAP Tasks",
+  "start_url": "https://ldm1973.github.io/projeto_app_todolist/",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "Icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffc900",
+  "background_color": "##ffc900",
+  "display": "standalone"
+}
