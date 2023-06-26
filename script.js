@@ -1,3 +1,8 @@
+if ("serviceWorker" in navigator) {
+    // register service worker
+    navigator.serviceWorker.register("service-worker.js");
+} 
+
 let taskItems = []
 const taskInput = document.querySelector('.task-input')
 const completedTasksDiv = document.querySelector('.completed')
@@ -140,5 +145,5 @@ function createTaskElement(task) {
     taskDiv.appendChild(taskTextDiv);
     taskDiv.appendChild(taskRemoveBtn);
 
-    return taskDiv
+    return taskDiv 
 }

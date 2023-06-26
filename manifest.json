@@ -1,0 +1,14 @@
+{
+    "name": "ASAP Tasks by Leonardo Munarolo",
+    "short_name": "ASAP Tasks",
+    "start_url": "index.html",
+    "scope": "./",
+    "icons": [
+
+      {
+        "src": "icon.png",
+        "sizes": "525x525",
+        "type": "image/png"
+      }
+    ]
+  }
