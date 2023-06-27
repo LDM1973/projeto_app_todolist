@@ -1,0 +1,43 @@
+{
+  "packageId": "io.github.ldm1973.twa",
+  "host": "ldm1973.github.io",
+  "name": "ASAP Tasks",
+  "launcherName": "ASAP Tasks",
+  "display": "standalone",
+  "themeColor": "#FFC900",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#FFC900",
+  "enableNotifications": true,
+  "startUrl": "/projeto_app_todolist/index.html",
+  "iconUrl": "http://ldm1973.github.io/projeto_app_todolist/Icon.png",
+  "maskableIconUrl": "http://ldm1973.github.io/projeto_app_todolist/IconMask.png",
+  "monochromeIconUrl": "http://ldm1973.github.io/projeto_app_todolist/IconMono.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "/home/leonardo/Documents/Workspace/projeto_app_todolist/android.keystore",
+    "alias": "asap_tasks_key"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "http://ldm1973.github.io/projeto_app_todolist/manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "http://ldm1973.github.io/projeto_app_todolist/",
+  "minSdkVersion": 19,
+  "orientation": "portrait",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "retainedBundles": [],
+  "appVersion": "1"
+}
