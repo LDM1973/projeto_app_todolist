@@ -1,0 +1,8 @@
+io/github/ldm1973/twa/LauncherActivity.java
+ io.github.ldm1973.twa.LauncherActivity
+io/github/ldm1973/twa/BuildConfig.java
+ io.github.ldm1973.twa.BuildConfig
+io/github/ldm1973/twa/DelegationService.java
+ io.github.ldm1973.twa.DelegationService
+io/github/ldm1973/twa/Application.java
+ io.github.ldm1973.twa.Application
